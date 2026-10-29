@@ -19,7 +19,7 @@ subtitle: "Exploration Through Research & Analysis"
 
 **Research Question:** How is audience segmentation decided, and where are there opportunities to strengthen this process through marketing strategy?
 
-**Approach:** Interviewed 7 key stakeholders from departments across the Motion Picture Group and analyze working 3 film marketing campaigns.
+**Approach:** Interviewed 7 key stakeholders from departments across the Motion Picture Group and analyzed 3 working film marketing campaigns.
 
 **Results:** Presented key findings based off of established objectives to executives. Identified 4 data-driven actionable recommendations to enhance marketing strategy.
 <section id="Deliverable">
@@ -41,6 +41,36 @@ subtitle: "Exploration Through Research & Analysis"
     </p>
 </section>
 *Removed selected slides with sensitive and proprietary information*
+
+---
+
+### Text Analysis: Examining Trump's 2019 Tweets to Understand Immigration Framing
+
+[QUALITATIVE / SOCIOLOGICAL RESEARCH / 2026]{.project-label}
+
+**Research Question:** How does Trump use rhetorical strategies to frame immigration in his 2019 tweets?
+
+**Approach:** Analyzed Trump's 2019 tweets
+
+**Results:** TBD
+<section id="Research Poster">
+    <h2>Research Poster</h2>
+
+    </p>
+
+    <iframe
+        src="assets/research_poster.html"
+        width="100%"
+        height="900px"
+        style="border: none;">
+    </iframe>
+
+    <p>
+        <a href="assets/assets/research_poster.html" download>
+            Download My Project (PDF)
+        </a>
+    </p>
+</section>
 
 ---
 

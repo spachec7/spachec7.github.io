@@ -13,7 +13,7 @@ page-layout: full
 
 [Turning data into actionable insights.]{.hero-subtitle}
 
-Sociology, Psychological Science, and Applied Data Analysis student at Loyola Marymount University with a background in social science research, analysis, and audience insights. I’m interested in using research and data to inform buisiness decisions and understand people, audiences, and consumer behavior.
+Sociology, Psychological Science, and Applied Data Analysis student at Loyola Marymount University with a background in social science research, analysis, and audience insights. I’m interested in using research and data to inform business decisions and understand people, audiences, and consumer behavior.
 
 [Explore my research](research.qmd){.primary-link} [Contact Me](mailto:spachec7@lion.lmu.edu){.quiet-link}
 :::
