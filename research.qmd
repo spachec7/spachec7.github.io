@@ -50,9 +50,9 @@ subtitle: "Exploration Through Research & Analysis"
 
 **Research Question:** How does Trump use rhetorical strategies to frame immigration in his 2019 tweets?
 
-**Approach:** Analyzed Trump's 2019 tweets
+**Approach:** Used word frequency and sentiment analysis to analyzed Trump's 2019 tweets after filtering for immigration-related keywords. 
 
-**Results:** Word frequency and sentiment analysis findings suggest that Trump's immigration discourse frequently framed immigration through security concerns, political conflict, and illegality. Upon further inspection, the results primarily revealed negative sentiment in tweets related to immigration.
+**Results:** Findings suggest that Trump's immigration discourse frequently framed immigration through security concerns, political conflict, and illegality. Upon further inspection, the results primarily revealed negative sentiment in tweets related to immigration.
 <section id="Research Poster">
     <h2>Research Poster</h2>
 
