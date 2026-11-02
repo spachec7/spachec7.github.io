@@ -52,7 +52,7 @@ subtitle: "Exploration Through Research & Analysis"
 
 **Approach:** Analyzed Trump's 2019 tweets
 
-**Results:** TBD
+**Results:** Word frequency and sentiment analysis findings suggest that Trump's immigration discourse frequently framed immigration through security concerns, political conflict, and illegality. Upon further inspection, the results primarily revealed negative sentiment in tweets related to immigration.
 <section id="Research Poster">
     <h2>Research Poster</h2>
 
